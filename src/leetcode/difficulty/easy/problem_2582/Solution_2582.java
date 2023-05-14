@@ -1,4 +1,4 @@
-package leetcode.difficulty.easy;
+package leetcode.difficulty.easy.problem_2582;
 
 public class Solution_2582 {
     public int passThePillow(int n, int time) {

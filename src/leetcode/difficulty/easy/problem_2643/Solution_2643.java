@@ -1,4 +1,4 @@
-package leetcode.difficulty.easy;
+package leetcode.difficulty.easy.problem_2643;
 
 public class Solution_2643 {
     public int[] rowAndMaximumOnes(int[][] mat) {
