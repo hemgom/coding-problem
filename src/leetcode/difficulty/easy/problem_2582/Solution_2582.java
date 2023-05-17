@@ -11,6 +11,7 @@ public class Solution_2582 {
         } else if (r%2 == 1) {
             result = n - m;
         }
+
         return result;
     }
 }
