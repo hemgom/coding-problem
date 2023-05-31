@@ -1,4 +1,4 @@
-# 206. Reverse Linked List
+# 2331. Evaluate Boolean Binary Tree
 아래 내용과 같은 속성을 가진 이진트리 `root`가 주어진다. 
 
 `leaf-node`는 `0` 또는 `1` 값을 갖는다.  
