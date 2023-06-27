@@ -18,4 +18,4 @@
 ### 문제출처
 - [leetcode](https://leetcode.com/problems/majority-element/)
 ### 태그
-`HashSet` `반복문` `배열 중복요소 제거 및 카운팅`
+`HashSet` `반복문` `중복요소 제거` `중복요소 개수`
