@@ -26,4 +26,4 @@
 ### 문제출처
 - [leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/)
 ### 태그
-`반복문`
+`반복문` `조건문`
