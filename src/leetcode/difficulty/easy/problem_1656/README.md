@@ -13,8 +13,8 @@
      - 현재 삽입된 `idKey`와 `ptr`을 비교해 가능한 가장 큰 청크를 반환한다.
 
 
-- Example  
-[image error : visit the original page](https://assets.leetcode.com/uploads/2020/11/10/q1.gif)
+- Example image  
+<img width="90%" src="https://assets.leetcode.com/uploads/2020/11/10/q1.gif"/>
 ### 입력제한
 - 1 <= `n` <= 1000
 - 1 <= `id` <= `n`
