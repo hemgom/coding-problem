@@ -15,6 +15,7 @@
 
 - Example image  
 <img width="90%" src="https://assets.leetcode.com/uploads/2020/11/10/q1.gif"/>
+
 ### 입력제한
 - 1 <= `n` <= 1000
 - 1 <= `id` <= `n`
