@@ -5,9 +5,9 @@ public class Solution_2798 {
 
         int finishEmployee = 0;
 
-        for (int hour : hours) {
+        for (int h : hours) {
 
-            if (target <= hour) {
+            if (target <= h) {
                 finishEmployee++;
             }
         }
