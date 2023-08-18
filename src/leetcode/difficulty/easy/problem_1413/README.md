@@ -13,7 +13,8 @@
 __minStartValue(int[] nums)__
 1. `1`의 값을 가진 `startValue`를 생성한다.
 2. `stepByStepSum()`의 결과가 `false`일 경우 `startValue`의 값을 `1` 증가시킨다.
-   - 만약 `true`라면 `startValue`를 반환한다.
+   - 만약 `true`라면 `startValue`를 반환한다.  
+
 __stepByStepSum(int[] nums, int startValue)__
    - `startValue += nums[i]`의 연산을 `nums[nums.length-1]`까지 반복한다.
    - 단, 합의 결과들 중 `startValue < 1`인 경우가 있다면 `false`를 반환한다.
