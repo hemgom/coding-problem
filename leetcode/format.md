@@ -1,11 +1,8 @@
 # Problem
-문제 설명 - 1st line
+문제 설명 - 2 
 <br/><br/>
 
-문제 설명 - 2nd line
-<br/><br/>
-
-문제 설명 - 3rd line
+문제 설명 - 2
 <br/><br/>
 
 ## Constraints
@@ -27,4 +24,4 @@
 <br/><br/>
 
 ## 참조 문서
-- [leetcode - 문제번호](문제 원본 URL)
+- [leetcode - 문제번호](문제 URL)
