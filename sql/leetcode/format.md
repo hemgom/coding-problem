@@ -6,11 +6,11 @@
 <br/><br/>
 
 ## Constraints
-- 제약조건
+- 제약조건 내용
 <br/><br/>
 
 ## Category
-`카테고리1`, `카테고리2`
+`Database`
 <br/><br/><br/>
 
 # 분석
