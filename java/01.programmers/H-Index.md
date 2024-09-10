@@ -1,5 +1,5 @@
 # 문제 분석
-`[H-Index](https://en.wikipedia.org/wiki/H-index)` 를 구하는 문제로 `H-Index` 에 대한 정의는 아래와 같다.
+[H-Index](https://en.wikipedia.org/wiki/H-index) 를 구하는 문제로 `H-Index` 에 대한 정의는 아래와 같다.
 - 과학자가 논문 `n` 개를 발표했을 때, 다른 논문에 인용된 횟수를 `c` 라고 하고, 인덱스를 `i` 라고 하자.
 - 모든 `c` 에 대해 `i` 보다 크거나 같은 경우의 수가 `i` 와 같거나 크다면 `i` 는 `h` 라 할 수 있다.
 - 그리고 구해진 모든 `h` 들 중 가장 큰 `h` 가 `H-index` 가 된다.
