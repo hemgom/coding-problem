@@ -1,5 +1,5 @@
 # Problem interpretation
-`STATION` 에서 `모음(a, e, i, o, u)` 로 끝나는 도시 이름 목록을 쿼리한다. 결과에 중복이 포함될 수 있다.
+`STATION` 에서 `모음(a, e, i, o, u)` 로 끝나는 도시 이름 목록을 쿼리한다. 결과에 중복이 포함될 수 없다.
 <br/><br/>
 
 ## Constraints

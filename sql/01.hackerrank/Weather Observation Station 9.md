@@ -1,5 +1,5 @@
 # Problem interpretation
-모음으로 시작하지 않는 `STATION` 의 도시 이름 목록을 쿼리한다. 결과에 중복이 포함될 수 있다.
+모음으로 시작하지 않는 `STATION` 의 도시 이름 목록을 쿼리한다. 결과에 중복이 포함될 수 없다.
 <br/><br/>
 
 ## Constraints

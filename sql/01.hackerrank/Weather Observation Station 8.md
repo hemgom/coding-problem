@@ -1,5 +1,5 @@
 # Problem interpretation
-첫 번째와 마지막 문자가 모두 `모음(a, e, i, o, u)` 인 `STATION` 의 도시 이름 목록을 쿼리한다. 결과에는 중복된 항목이 포함될 수 있다.
+첫 번째와 마지막 문자가 모두 `모음(a, e, i, o, u)` 인 `STATION` 의 도시 이름 목록을 쿼리한다. 결과에는 중복된 항목이 포함될 수 없다.
 <br/><br/>
 
 ## Constraints
